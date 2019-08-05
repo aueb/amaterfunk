@@ -7,7 +7,9 @@
 ### Satellitenfunk
 
 #### Wettersat
+##### Meteor
 * https://www.rtl-sdr.com/updated-meteor-m-n2-2-tutorial-and-decoder-now-available/
+* http://happysat.nl/Setup_Meteor/Setup.html
 
 ## Fuchsjagd
 * https://ardf.darc.de/
