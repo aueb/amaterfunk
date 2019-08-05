@@ -7,6 +7,8 @@
 ### Satellitenfunk
 
 #### Wettersat
+* https://www.rtl-sdr.com/creating-wide-area-composite-images-with-wxtoimg-weather-satellite-failure-updates/
+
 ##### Meteor
 * https://www.rtl-sdr.com/updated-meteor-m-n2-2-tutorial-and-decoder-now-available/
 * http://happysat.nl/Setup_Meteor/Setup.html
