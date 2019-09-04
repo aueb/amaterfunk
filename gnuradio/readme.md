@@ -1,4 +1,8 @@
 # Gnuradio
+
+## Ressourcen
+* Gnuradio Pad https://pads.shackspace.de/slide/#/1/edit/0oV9C+BTEYS93YvbVPOp5g/m1m3XJKAhwVOkHRzPzTVC-qG/
+
 ## Grundlagen
 ## Distributionen
 
