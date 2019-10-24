@@ -1,4 +1,5 @@
 * Wiki https://github.com/aueb/amateurfunk/wiki
+* https://github.com/OpenHardware4Ham/Documentation (lotho)
 
 ## Digitale Betriebsarten
 ### DMR
