@@ -2,9 +2,24 @@
 * https://github.com/OpenHardware4Ham/Documentation (lotho)
 
 ## Digitale Betriebsarten
+* Liste automatischer Stationen 
+  * https://www.darc.de/der-club/referate/vus/automatische-stationen/#c33304
+  
 ### DMR
 ### Echolink
+* http://www.echolink.org/
+
+### Tetra
+* http://dk5ras.dyndns.org/www/ham-tetra/tetra-repeaterliste/
+
 ### Hamnet
+
+### Relaisliste
+* http://relaislisten.darc.de/
+* Baken https://www.darc.de/der-club/referate/vus/automatische-stationen/standorte/baken/
+* https://www.darc.de/der-club/referate/vus/automatische-stationen/standorte/transponder/
+
+
 ### Satellitenfunk
 
 #### Wettersat
