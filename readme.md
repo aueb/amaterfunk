@@ -49,3 +49,10 @@
 *  Kenwood TH-F7
 #### Yaesu
 *  Yaesu FT-60R
+### Mobilstationen
+* Yaesu FT-817
+
+## Raspi
+* https://oh8stn.org/blog/2018/09/27/portable-off-grid-power-for-the-raspberry-pi/
+* http://oh8stn.org/off-grid-raspberry-pi/
+* https://oh8stn.org/blog/2017/12/23/digital-modes-with-rpi3-by-shawn-morgan-wofw/
