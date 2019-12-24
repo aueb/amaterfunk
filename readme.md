@@ -6,8 +6,17 @@
   * https://www.darc.de/der-club/referate/vus/automatische-stationen/#c33304
   
 ### DMR
+* http://ham-dmr.at/
+
+#### Anytone AT-D878UV
+* Sources for Anytone AT-D878UV
+ * https://powerwerx.com/help/software-downloads
+ * http://ham-dmr.at/index.php/download/
+ * http://www.wouxun.us/item.php?item_id=431&category_id=64
+ * Certifications 	FCC Part 90 Certified, FCC ID: T4KD878UV
 ### Echolink
 * http://www.echolink.org/
+* http://www.echolink.org/download.htm
 
 ### Tetra
 * http://dk5ras.dyndns.org/www/ham-tetra/tetra-repeaterliste/
